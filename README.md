@@ -1,4 +1,11 @@
-## Hi there 👋
+### 👋 Hi, I'm Shyamraj H
+
+- 🎓 B.Tech Cyber Security student @ Amrita Vishwa Vidyapeetham  
+- 🔐 Interested in cybersecurity, backend systems & threat analysis  
+- 🛠️ Skills: Python, C/C++, Bash, Linux, Wireshark, Burp Suite  
+- 🧠 Currently learning: CompTIA Security+ & advanced security tools  
+- 🤝 Open to collaborating on security & backend projects  
+- 📫 Reach me at: shyamraj10335@gmail.com
 
 <!--
 **shyamraj7292/shyamraj7292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
