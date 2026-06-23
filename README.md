@@ -4,7 +4,7 @@
 - 🔐 Interested in cybersecurity, backend systems & threat analysis  
 - 🛠️ Skills: Python, C/C++, Bash, Linux, Wireshark, Burp Suite  
 - 🧠 Currently learning: CompTIA Security+ & advanced security tools  
-- 🤝 Open to collaborating on security & backend projects  
+- 🤝 Open to collaborating on network security projects
 - 📫 Reach me at: shyamraj10335@gmail.com
 
 <!--
