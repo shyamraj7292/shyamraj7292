@@ -30,7 +30,7 @@ role: Final-Year B.Tech Cyber Security Student
 lab: TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham
 focus: [ AppSec, CI/CD Pipeline Security, VAPT, Reverse Engineering ]
 currently_building: CI/CD Misconfiguration Auditor — semantic rule engine for GitHub Actions YAML
-ctf_crew: RubberDuckies
+ctf_crew: B1tw1nk
 status: shipping capstone, hunting bugs, climbing leaderboards
 ```
 
