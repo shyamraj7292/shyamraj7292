@@ -131,11 +131,13 @@ Android APK triage engine built with team **RubberDuckies** for the BOI CyberShi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shyamraj7292/shyamraj7292/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamraj7292/shyamraj7292/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyamraj7292/shyamraj7292/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shyamraj7292/shyamraj7292/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
-> Set up via GitHub Actions — see the setup notes below to activate this.
 
 <br/>
 
